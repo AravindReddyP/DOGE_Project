@@ -1,5 +1,5 @@
 # DOGE_Project
-A Sample project created by scraping data from the Doge(Department of Government Efficiency) website and utilized Pandas to structure, organize and clean the data. I have utilized Matplotlib to visualize the processed data. The project is created in Vscode utilizing its native Jupyter notebook environment.
+A Simple project created by scraping data from the Doge(Department of Government Efficiency) website. I have utilized Pandas library to structure, organize and clean the data. I also utilized Matplotlib library to visualize the processed data. This project is created in Vscode utilizing its native Jupyter notebook environment.
 
 # Government Contracts Data Analysis Project
 
