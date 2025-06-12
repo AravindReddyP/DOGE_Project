@@ -1,5 +1,5 @@
 # DOGE_Project
-This project was developed by extracting the data from Doge (Department of Government Efficiency) website. I employed Pandas library to structure, organize, clean and refine the data, while using the Matplotlib library to generate the visualizations on the cleaned datasets. This project was fully built in VS Code, leveraging its integrated Jupyter notebook environment.
+This personal project was developed by extracting the data from the Doge (Department of Government Efficiency) website. I employed Pandas library to structure, organize, clean and refine the data, while using the Matplotlib library to generate the visualizations on the cleaned datasets. This project was fully built in VS Code, leveraging its integrated Jupyter notebook environment.
 
 # Government Contracts Data Analysis Project
 
